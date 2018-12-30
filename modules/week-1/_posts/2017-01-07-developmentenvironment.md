@@ -1,5 +1,5 @@
 ---
-title: Your Development Environment
+title: Command Line
 module: 1
 ---
 
@@ -12,7 +12,7 @@ This means you need to be comfortable with your computer and *know* your compute
 ## Command-line interface (CLI)
 
 One of the most basic ways of working with your computer is through a [command-line interface (CLI)](https://en.wikipedia.org/wiki/Command-line_interface).
-![example image of terminal.app](../imgs/terminalExample.jpg)
+![example image of terminal.app](../imgs/Screen1.png)
 
 Although such programs can appear intimidating to a beginner user, these command line programs remove are simple applications that allow for detailed control of the OS. These programs allow a user to accomplish many of that same tasks that they are used to completing with a mouse, through text only commands. One reason to use such a program is that it can speed up the development process and also display more information than is typical of a traditional “graphical user interface” (GUI; pronounced ‘gooey’) based environment.
 
@@ -22,12 +22,12 @@ One advantage of a CLI over a GUI-based file browser is quicker manipulation of 
 
 > Note: "Directories" and "Folders" are the same thing. These will be interchangable throughout this course.
 
+<!--  Might want to create a video here...
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/CuyD_n3XzbE" frameborder="0" allowfullscreen></iframe></div>
+-->
+## Learning your CLI
 
-# Learning your CLI
-
-## - Unix (macOS & Linux)
-
+### - Unix
 Unix operating systems refer to both macOS (formerly OS X) and Linux. These OS’s will use similar commands within their CLI’s. On macOS, the default CLI is `terminal.app`. However, there are many CLI’s that can be downloaded and used in unix-based operating systems.
 
 For those of you who are unfamiliar with using the terminal in unix operating systems, you should work through following book.
@@ -38,7 +38,7 @@ This resource walks you through the basics of using terminal via a ‘cutesy’ 
 
 NOTE: If you do not have Xcode.app installed on your Mac, you should do so. We will not be using Xcode, however, it installs additional command line tools which we will use. Xcode can be installed via the Mac App Store. After installing Xcode, open it once, then close it and forget about it for the time being.
 
-## - Windows
+### - Windows
 Windows users have a couple of options when it comes to a CLI. Traditionally, Windows has utilized a program known as Command Prompt for decades. This program is a relative of MS-DOS, an early operating system and precursor to Windows. In recent years there has been a move within the development community towards Window's newer PowerShell CLI. However, there is also a move towards a Bash-like or true Bash (the Linux and macOS CLI) program for windows.
 
 I am going to suggest you utilize the last of these options. Unfortunately, a Bash shell does not exist by default on Windows yet. You have two options to get one.
@@ -48,7 +48,7 @@ I am going to suggest you utilize the last of these options. Unfortunately, a Ba
         - [https://docs.microsoft.com/en-us/windows/wsl/install-win10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 
 2. A simpler solution (and the recommended one for this course), is to install a Bash-like CLI.
-    - The disadvantage of this solution is that it is not as integrated as the "Windows Subsystem for Linux". However, for the little bit of CLI work you will do in this course, it works just fine.
+    - The disadvantage of this solution is that it is not as integrated as the "Windows Subsystem for Linux". However, for the CLI work you will do in this course, it works just fine.
 
 To get a Bash environment, windows users should install Git. Git can be downloaded from the following link;
 
@@ -60,7 +60,7 @@ After downloading the program, right-click the install executable, and select "R
 
 This will install a program known as "Git", along with one called "Git Bash". You can now open "Git Bash".
 
-![Git Bash](../imgs/gitbash.png)
+![Git Bash](../imgs/Screen2.png)
 
 After installing either "Windows Subsystem for Linux" or "Git Bash", you should work through the following PDF book.
 
