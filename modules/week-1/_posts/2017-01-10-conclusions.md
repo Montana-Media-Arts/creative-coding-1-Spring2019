@@ -16,5 +16,8 @@ Your homework for this week is to;
 3. Create a GitHub.com account.
 4. Respond to _at least_ two of the questions from Issue #1.
 5. Respond to your fellow classmates _at least_ twice.
+6. Go to [Code.org - Artists](https://studio.code.org/s/artist/stage/1/puzzle/1) - complete the puzzles and take a screen shot at the end.
 
+<!--
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/SPt_AgmW6bo" frameborder="0" allowfullscreen></iframe></div>
+-->
