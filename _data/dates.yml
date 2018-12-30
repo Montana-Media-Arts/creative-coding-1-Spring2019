@@ -1,23 +1,24 @@
 
-# Fall 2018
+# Spring 2019
 
-1: ["August 27th - August 29th", "August 30th @ 8:00AM"]
-2: ["August 30th - September 5th", "September 6th @ 8:00AM"]
-3: ["September 6th - September 12th", "September 13th @ 8:00AM"]
-4: ["September 13th - September 19th", "September 20th @ 8:00AM"]
-5: ["September 20th - September 26th", "September 27th @ 8:00AM"]
-6: ["September 27th - October 3rd", "October 4th @ 8:00AM"]
-7: ["October 4th - October 10th", "October 11th @ 8:00AM"]
-8: ["October 11th - October 17th", "October 18th @ 8:00AM"]
-9: ["October 18th - October 24th", "NO HOMEWORK"]
-10: ["October 25th - October 31st", "November 1st @ 8:00AM"]
-11: ["November 1st - November 7th", "November 8th @ 8:00AM"]
-12: ["November 8th - November 14th", "November 15th @ 8:00AM"]
-13: ["November 15th - November 28th", "Final Project Proposal Due; November 29th"]
-14: ["November 29th - December 7th", "Work on Final"]
-hwCutoff: "December 3rd @ 8:00AM"
-finalProposal: "November 29th @ 8:00AM"
-Final-Project: ["November 15th - December 11th", "Tuesday, December 11th @ 8:00AM"]
+1: ["January 13th - January 18th", "January 19th @ 11:55PM"]
+2: ["January 20th - January 25th", "January 26th @ 11:55PM"]
+3: ["January 27th - February 1st", "February 2nd @ 11:55AM"]
+4: ["February 3rd - February 8th", "February 9th @ 11:55PM"]
+5: ["February 17th - February 22nd", "February 23rd @ 11:55PM"]
+6: ["February 24th - March 1st", "March 2nd @ 11:550PM"]
+7: ["March 3rd - March 8th", "March 9th @ 11:55PM"]
+8: ["March 10th - March 15th", "March 16th @ 11:55PM"]
+9: ["March 17th - March 22nd", "March 23rd @ 11:55 PM"]
+10: ["March 24th - March 29th", "No Homework - Spring Break"]
+11: ["March 31st - April 5th", "April 6th @ 11:55PM"]
+12: ["April 7th - April 12th", "April 13th @ 11:55PM"]
+13: ["April 14th - April 19th", "April 20th @ 11:55PM"]
+14: ["April 21st - April 26th", "April 27th @ 11:55PM"]
+15: ["April 28th - May 3rd", "Final Due - May 3rd @ 11:55PM"]
+#hwCutoff: "December 3rd @ 8:00AM"
+#finalProposal: "November 29th @ 8:00AM"
+#Final-Project: ["November 15th - December 11th", "Tuesday, December 11th @ 8:00AM"]
 
 
 ##############################################################################
