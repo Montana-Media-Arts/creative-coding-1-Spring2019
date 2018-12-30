@@ -5,8 +5,9 @@ module: 1
 
 # Week 1<br />Welcome to Creative Coding 1<br />(MART 120)
 
+<!-- create a video sometime
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0iMC105zZCI" frameborder="0" allowfullscreen></iframe></div>
-
+-->
 ## Overview of the Course
 
 This course is designed to teach code so that it can become a tool for art and creativity.
@@ -27,9 +28,7 @@ You should plan;
 - 3 hours a week to work through the course website content (what you are doing now).
 - 3-9 hours a week to work on concepts, code assignments, studying, and practicing.
 
-This is an intense course and will take a lot of time. You are learning a new language that is not like any other you have studied before. This takes immersion.
-
-
+This is an intense course, yet a fun course!  Some things might take more time than others. You are learning a new language that is not like any other you have studied before. This takes immersion.
 
 
 
