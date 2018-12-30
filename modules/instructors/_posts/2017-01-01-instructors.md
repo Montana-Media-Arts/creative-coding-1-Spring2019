@@ -24,11 +24,12 @@ Stephanie holds regular lab hours, in McGill 127. Please make this your first st
 <!-- To Be Announced-->
 
 
-## Lab Assistants
+<!--## Lab Assistants-->
 
 <!--We also have two amazing Lab Assistants for this course this semester. They will be assisting with answering your questions and serve as another resource to help you problem solve. They will also be assisting Stephanie with grading your weekly assignments.
--->
 TBA
+-->
+
 <!--
 - Quinn Bruderer
     - Email: [quintin.bruderer@umconnect.umt.edu](mailto:emily1.griffin@umconnect.umt.edu,quintin.bruderer@umconnect.umt.edu?cc=stephanie1.whitney@umconnect.umt.edu,michael.musick@umontana.edu&subject=120%20Question)
@@ -37,10 +38,10 @@ TBA
 
 When possible, you should visit them in the lab, during their lab hours. If that is not possible, please [email them](mailto:emily1.griffin@umconnect.umt.edu,quintin.bruderer@umconnect.umt.edu?cc=stephanie1.whitney@umconnect.umt.edu,michael.musick@umontana.edu&subject=120%20Question).
 -->
-#### Lab Assistant Lab Hours
+<!--#### Lab Assistant Lab Hours-->
 
 <!-- - Tuesdays: 1:30pm - 3:00pm -->
-- To Be Announced
+<!--- To Be Announced-->
 
 <!-- - Mondays: 12:30pm - 2:00pm -->
 
