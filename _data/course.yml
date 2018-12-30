@@ -1,0 +1,11 @@
+title: Creative Coding 1, MART 120
+title-short: Creative Coding 1
+description: A course to teach code so that it becomes a tool for art and creativity.
+institution: University of Montana, School of Media Arts
+institution-short: Media Arts | Montana
+
+infoModules: [workspace, syllabus, dates, instructors, help]
+
+
+modules: [week-1, week-2, week-3, week-4, week-5, week-6, week-7, week-8, week-9, week-10, week-11, week-12, week-13, final-project]
+# modules: [week-1, week-2, week-3, week-4, week-5, week-6, week-7, week-8, week-9, week-10, week-11, week-12, final-info]
