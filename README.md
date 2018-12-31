@@ -9,7 +9,7 @@ Utilizing [p5.js](https://p5js.org), this course teaches concepts from computer 
 - [_Creative Coding 1_ Website](https://montana-media-arts.github.io/creative-coding-1/)
 
 
-### Designed by
+### Updated by
 
 - Professor Michael Cassens
 - E-Mail: [michael.cassens@umontana.edu](mailto:michael.cassens@umontana.edu).
