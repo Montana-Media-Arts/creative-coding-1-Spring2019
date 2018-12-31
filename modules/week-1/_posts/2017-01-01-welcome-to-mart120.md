@@ -5,7 +5,8 @@ module: 1
 
 # Week 1<br />Welcome to Creative Coding 1<br />(MART 120)
 
-<!-- create a video sometime
+<!--
+create a video sometime
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0iMC105zZCI" frameborder="0" allowfullscreen></iframe></div>
 -->
 ## Overview of the Course
