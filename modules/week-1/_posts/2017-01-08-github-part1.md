@@ -27,7 +27,7 @@ To watch the course repo;
         - If you get an email about a new issue, try to help the person out.
         - Your participation grade will be based on how active you were on the GitHub issues forum, as well as comments to your classmates to their weekly homework assignments.
 
-![Follow and Star Repositories on GitHub.com](../imgs/Screen3.png)
+![Follow and Star Repositories on GitHub.com](../imgs/watch_star_CC.png)
 
 ## Create a new “Issue”
 
@@ -40,7 +40,7 @@ There you can search open issues to try and;
 
 If no issue matches your problem, you can open a "New Issue". This allows you to describe your problem, thereby allows everyone in the class to help work on it.
 
-![New Issue button](../imgs/Screen4.png)
+![New Issue button](../imgs/new_issue_CC.png)
 
 
 NOTE: You should not repeat a comment that has already been added by anyone from your class. However, if you would like to further a comment already there, “@mention” the classmate/user and continue their discussion.
