@@ -56,7 +56,7 @@ When you have problems in this course, you have a number of solutions available 
 
 1. Google the problem.
     - A critical skill in creative technology is learning to problem solve. Part of this involves learning how to form a good google query. Your first go to for help should always be google.
-2. Post to the [course issues forum](https://github.com/Montana-Media-Arts/441-WebTech-Spring2019/issues).
+2. Post to the [course issues forum](https://github.com/Montana-Media-Arts/120_CreativeCoding_Spring2019/issues).
     - In a couple pages, you will follow along with a short tutorial that will help you signup for GitHub, then star and follow the "course repository". Part of this repository is an "issues forum" where you can post questions and problems you are having. These "issues" will be e-mailed to you, and you can then respond to them.
     - The advantage to the GitHub issues forum is its advanced system for including formatted code. This will help with problem solving.
 3. Go to the 127 Media Arts Lab
