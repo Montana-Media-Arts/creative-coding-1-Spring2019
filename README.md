@@ -11,11 +11,11 @@ Utilizing [p5.js](https://p5js.org), this course teaches concepts from computer 
 
 ### Designed by
 
-- Professor Michael Musick
-- E-Mail: [michael.musick@umontana.edu](mailto:michael.musick@umontana.edu).
+- Professor Michael Cassens
+- E-Mail: [michael.cassens@umontana.edu](mailto:michael.cassens@umontana.edu).
 - Office: McGill Hall, 232.
 
 
 ### Updated
 
-This course was last updated: 2018-01-22
+This course was last updated: 2018-12-30
