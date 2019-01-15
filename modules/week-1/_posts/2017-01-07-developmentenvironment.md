@@ -32,7 +32,7 @@ Unix operating systems refer to both macOS (formerly OS X) and Linux. These OS�
 
 For those of you who are unfamiliar with using the terminal in unix operating systems, you should work through following book.
 
-**[Unix for the Beginning Mage](http://unixmages.com/ufbm.pdf)**
+**[Unix for the Beginning Mage](http://unixmages.com/wp-content/uploads/2018/12/ufbm.pdf)**
 
 This resource walks you through the basics of using terminal via a ‘cutesy’ story. (Sorry if this is not your thing. Unfortunately, it is a very good resource.)
 
