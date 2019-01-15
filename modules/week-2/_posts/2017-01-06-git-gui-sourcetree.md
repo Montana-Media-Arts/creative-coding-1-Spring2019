@@ -132,9 +132,9 @@ There should now be a new commit in your Repo window with the message that you j
 
 Again, selecting different commits will show the files changed for each one. Selecting those files will show how they changed from the last commit.
 
-
+<!--
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/s0iPveZHsfA" frameborder="0" allowfullscreen></iframe></div>
-
+-->
 
 ## { TODO: }
 
