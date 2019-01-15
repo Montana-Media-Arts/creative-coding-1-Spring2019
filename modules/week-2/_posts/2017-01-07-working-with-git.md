@@ -104,7 +104,7 @@ It will have a single line, that is a pound sign, followed by the name of your r
 In this open README.md file, I want you to add a few new lines, then type a short description about what this repository is for. Then save the file. Something like;
 
 ```
-This is Michael Musick's repo for course work related to Creative Coding 1.
+This is Michael Cassens's repo for course work related to Creative Coding 1.
 ```
 
 ![changes to a file](../imgs/changes2.png)

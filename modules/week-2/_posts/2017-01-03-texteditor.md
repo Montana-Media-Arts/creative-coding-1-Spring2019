@@ -21,11 +21,18 @@ For this class, we need a text editor that is optimized for development and code
 - Adobe’s [Brackets](http://brackets.io) - Open Source
 - [Sublime Text 3](https://www.sublimetext.com/3) - License is $70
 
-I have used both Atom and Sublime Text extensively. Currently, I am teaching with Atom, and as such, will describe the creation of a development environment through Atom.
+I have used both Atom and Sublime Text extensively. Currently, I am teaching with Visual Studio Code, and as such, will describe the creation of a development environment through VS Code.
 
-I would suggest you follow along, trying to install and use the Atom editor. **_IF_** you are running an _older_ windows computer, or find Atom runs _really slow_ on your machine, I would suggest you instead install and try to use [Visual Studio Code](https://code.visualstudio.com).
+I would suggest you follow along, trying to install and use the VS Editor editor. However, if you want to use Atom, that is just fine for sure! **_IF_** you are running an _older_ windows computer, or find Atom runs _really slow_ on your machine, I would suggest you instead install and try to use [Visual Studio Code](https://code.visualstudio.com).
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Gbq9ZWXtyK4" frameborder="0" allowfullscreen></iframe></div>
+<!--<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Gbq9ZWXtyK4" frameborder="0" allowfullscreen></iframe></div>-->
+
+#### Install VS Code on Windows and MacOS
+[vs code download](https://code.visualstudio.com/download)
+
+### Packages
+I would recommend installing jshints, live-p5, p5js Snippets and p5canvas.  You can find those through the marketplace on the right.
+
 
 #### Install Atom on macOS
 
