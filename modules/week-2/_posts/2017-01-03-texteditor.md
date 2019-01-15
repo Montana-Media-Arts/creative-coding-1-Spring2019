@@ -31,7 +31,7 @@ I would suggest you follow along, trying to install and use the VS Editor editor
 [vs code download](https://code.visualstudio.com/download)
 
 ### Packages
-I would recommend installing jshints, live-p5, p5js Snippets and p5canvas.  You can find those through the marketplace on the right.
+I would recommend installing jshints, live-p5, p5js Snippets and p5canvas.  You can find those through the marketplace search.
 
 
 #### Install Atom on macOS
