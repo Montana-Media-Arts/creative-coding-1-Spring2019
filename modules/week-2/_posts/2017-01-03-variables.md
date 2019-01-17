@@ -21,11 +21,14 @@ You can find them in:
 Variables section.
 ![Variables](../imgs/Variable.png)
 
+
 You can create your own variable.  For example, we can call it Score.
 ![Score](../imgs/createnewvariable.png)
 
+
 Finally, we can react to something in our game and increase the score.
 ![Increase Score](../imgs/UpdateVariable.png)
+
 
 {To Do}
 Make sure you can create variables and updated them and reset them.
