@@ -12,13 +12,14 @@ Hopefully, you can answer this question to some degree. We know now how to add t
 
 ## Welcome to Broadcast
 
+We can add new sprites to send broadcast back and forth.
 ![Image of two Sprites](../imgs/broadcast.png)
 
-Then
+Then, the first sprite can send a message to the second sprite
 
 ![Send a Broadcast](../imgs/Send.png)
 
-Then
+Then, the second sprite can receive the broadcast.
 
 ![Receive a Broadcast](../imgs/Receive.png)
 
