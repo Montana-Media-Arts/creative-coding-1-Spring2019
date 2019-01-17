@@ -28,5 +28,4 @@ Then
 ### { TODO: }
 
 - Make sure you know how to add a couple of sprites and a broadcast and receive a broadcast.
-```
 
