@@ -12,7 +12,7 @@ Hopefully, you can answer this question to some degree. We know now how to add t
 
 ## Welcome to Broadcast
 
-![Image of two Sprites](../imgs/Broadcast.png)
+![Image of two Sprites](../imgs/broadcast.png)
 
 Then
 
